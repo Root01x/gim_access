@@ -2,3 +2,4 @@
 //git init start git
 //git clone 
 //git commit -m "comentario"
+//la wea
