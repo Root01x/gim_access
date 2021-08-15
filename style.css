@@ -1,0 +1,21 @@
+.box{
+    background:#eee;
+    padding: 20px;
+    border-radius: 10px;
+}
+textarea{
+    width: 100%;
+    border-radius: 3px;
+    resize: none;
+    font-size: 1em;
+    height: 100px;
+    padding:5px;
+}
+.btn-success{
+    background:#4caf50;
+    border-radius:3px;
+    border: none;
+    color: #fff;
+    padding:10px;
+
+}

@@ -5,5 +5,6 @@
 //git commit -m "comentario"
 //git checkout main cambiar de rama
 //git merge dev  combina las ramas
+//git status
 //la wea
-console.log("esto esa una prueba");
+console.log("esto es una prueba");
