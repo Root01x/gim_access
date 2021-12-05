@@ -6,4 +6,5 @@
 //git checkout main cambiar de rama
 //git merge dev  combina las ramas
 //la wea
+// git pull origin dev-semi actualiza el repositorrio clon
 console.log("esto esa una prueba");
